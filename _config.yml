@@ -11,7 +11,7 @@ title: Jizhao Qin
 # Description of the Site
 description: personal website
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /jizhaoqin.github.io/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
@@ -24,30 +24,30 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 # If you don't want to use any icon, you can leave them blank.
 email: jizhao.qin@campus.lmu.de
 facebook_username: 
-twitter_username: 
+# twitter_username: 
 instagram_username: 
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: -U_AOB5GfWlOow
+linkedin_username: linkedin.com/in/jizhao-qin-61b145286
+github_username:  jizhaoqin
+# youtube_channel_id: 
 reddit_username: /
 behance_username: /
 dribbble_username: /
 spotify_username: /
 
 # Google Analytics
-google-analytics: UA-163806439-1
+# google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+# disqus-shortname: thedevslot
 
 # Name of the Author
 author-name: Jizhao Qin
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: ./assets/images/my-portrait-paris.jpeg
 # 60 Words About the Author
 author-about: Hi, I'm Jizhao, now a astrophysics master student in LMU Muenchen.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/jizhaoqin
 
 # SASS
 sass:
