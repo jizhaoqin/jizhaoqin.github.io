@@ -1,11 +1,11 @@
 <section class="hero is-fullheight has-text-centered" id="contact">
     <div class="hero-body">
         <div class="container">
-            {% unless site.facebook_username == %}
-            <a id="contact-button" href="https://m.me/{{site.facebook_username}}"
+            {% unless site.phone == %}
+            <a id="contact-button" href="tel:{{site.phone}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fab fa-facebook-messenger"></i>Ping me on Messenger
+                <i class="fas fa-phone></i>Call me
             </a>
             {% endunless %}
             {% unless site.email == %}
