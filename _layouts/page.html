@@ -14,10 +14,15 @@ layout: compress
                 <div class="section">
                     <h1 class="title is-1 is-uppercase has-text-weight-bold">
                         {{page.title}}
+                        <!-- page.attribute, page refers to the calling site -->
                     </h1>
                     <hr class="has-background-black">
                     <div class="content is-marginless">
                         {{ content }}
+                        <!--
+                            {{ content }} means all the contents of the site that
+                            call this layout. 
+                        -->
                     </div>
                 </div>
             </div>
