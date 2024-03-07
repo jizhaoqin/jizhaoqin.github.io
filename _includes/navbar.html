@@ -22,15 +22,14 @@
             <div class="navbar-end">
                 <a class="navbar-item {% if page.layout == 'default' %}is-active{% endif %}"
                     href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">Home</a>
-                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#about">About me</a>
-                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#contact">Contact</a>
+                <!-- <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#about">About me</a>
+                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#contact">Contact</a> -->
                 <a class="navbar-item {% if page.layout == 'blog' %}is-active{% endif %}" href="{{site.url}}{{site.baseurl}}/blog">My Projects</a>
                 <a class="navbar-item {% if page.layout == 'page' %}is-active{% endif %}" href="{{site.url}}{{site.baseurl}}/test-page">Test</a>
             </div>
         </div>
     </div>
 </nav>
-<!-- Bulma Navbar JS -->
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         /* Get all "navbar-burger" elements */
