@@ -400,11 +400,11 @@ model_evaluations(
     Time consumed for 40 epochs in total: 20.16562s
     ------------------------------------------------------------
 
-![png](Jizhao_code_files/Jizhao_code_15_1.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_15_1.png)
 
-![png](Jizhao_code_files/Jizhao_code_15_2.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_15_2.png)
 
-![png](Jizhao_code_files/Jizhao_code_15_3.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_15_3.png)
 
 In this section,
 
@@ -486,11 +486,11 @@ model_evaluations(
     Time consumed for 40 epochs in total: 20.85197s
     ------------------------------------------------------------
 
-![png](Jizhao_code_files/Jizhao_code_20_1.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_20_1.png)
 
-![png](Jizhao_code_files/Jizhao_code_20_2.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_20_2.png)
 
-![png](Jizhao_code_files/Jizhao_code_20_3.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_20_3.png)
 
 In 4.1 section,
 
@@ -575,11 +575,11 @@ model_evaluations(
     Time consumed for 40 epochs in total: 30.71719s
     ------------------------------------------------------------
 
-![png](Jizhao_code_files/Jizhao_code_25_1.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_25_1.png)
 
-![png](Jizhao_code_files/Jizhao_code_25_2.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_25_2.png)
 
-![png](Jizhao_code_files/Jizhao_code_25_3.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_25_3.png)
 
 In section 4.2,
 
@@ -759,11 +759,11 @@ model_evaluations(
     Time consumed for 40 epochs in total: 30.15076s
     ------------------------------------------------------------
 
-![png](Jizhao_code_files/Jizhao_code_28_1.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_28_1.png)
 
-![png](Jizhao_code_files/Jizhao_code_28_2.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_28_2.png)
 
-![png](Jizhao_code_files/Jizhao_code_28_3.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_28_3.png)
 
 ```python
 loss = huber
@@ -931,11 +931,11 @@ model_evaluations(
     Time consumed for 40 epochs in total: 30.66767s
     ------------------------------------------------------------
 
-![png](Jizhao_code_files/Jizhao_code_29_1.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_29_1.png)
 
-![png](Jizhao_code_files/Jizhao_code_29_2.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_29_2.png)
 
-![png](Jizhao_code_files/Jizhao_code_29_3.png)
+![png](https://jizhaoqin.github.io/assets/images/post/CNN/Jizhao_code_29_3.png)
 
 In 4.3 section,
 
