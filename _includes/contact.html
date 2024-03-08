@@ -6,6 +6,11 @@
                 <i class="fa fa-phone"></i> {{site.phone}}
             </a>
             {% endunless %}
+            {% unless site.email-lmu == %/home/jizhao/Downloads/resume.pdf}
+            <a id="contact-button" href="mailto:{{site.email}}" class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths" target="_blank">
+                <i class="fas fa-envelope"></i> {{site.email-lmu}}
+            </a>
+            {% endunless %}
             {% unless site.email == %}
             <a id="contact-button" href="mailto:{{site.email}}" class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths" target="_blank">
                 <i class="fas fa-envelope"></i> {{site.email}}
