@@ -1,8 +1,6 @@
-# Website Development
+# Personal Website
 
-## modular programming in html and javascript
-
-- baseurl = <https://jizhaoqin.github.io>
+- URL = <https://jizhaoqin.github.io>
 - all .md files in the first level would be transferred to .html files
 - e.g. index.md -> index.html
 - so as others.
